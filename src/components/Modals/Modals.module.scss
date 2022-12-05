@@ -1,0 +1,197 @@
+// .app_container {
+//   display: flex;
+//   align-items: center;
+//   position: absolute;
+// }
+
+.modal {
+  position: fixed;
+  width: 100%;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.3s ease-in-out;
+  background: radial-gradient(
+    ellipse at bottom,
+    var(--background-color) 0%,
+    var(--color-black) 100%
+  );
+  z-index: 0;
+  line-height: 1.6rem;
+}
+
+.modal_body {
+  display: flex;
+  width: 80%;
+  max-width: 900px;
+  box-shadow: 0 0 15px var(--color-lilac);
+  padding: 30px;
+  border-radius: 12px;
+  align-items: center;
+  gap: 20px;
+  background-color: var(--color-dark);
+}
+
+.modal_title {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 15px;
+  background: transparent;
+}
+
+.modal_content {
+  flex: 1;
+  flex-direction: column;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: transparent;
+}
+
+.modal_image {
+  flex: 1;
+  width: 100%;
+  border-radius: 12px;
+}
+
+.image {
+  width: 100%;
+  border-radius: 12px;
+  box-shadow: 0 0 15px var(--color-lilac);
+  object-fit: cover;
+}
+
+.modal_buttons_group {
+  display: flex;
+  gap: 30px;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+  background: transparent;
+}
+
+.modal_button,
+.modal_button_play {
+  background: none;
+  border: 2px solid var(--color-lilac);
+  padding: 14px 20px;
+  font-size: 0.8em;
+  font-size: 1.2rem;
+  font-family: inherit;
+  color: var(--color-lilac);
+  text-transform: capitalize;
+  cursor: pointer;
+  border-radius: 12px;
+  transition: 0.3s;
+  margin-top: 15px;
+  background: transparent;
+}
+
+.modal_button:hover {
+  background: var(--color-lilac);
+  opacity: 0.8;
+  color: var(--background-color);
+  transition: 0.5s;
+}
+
+.modal_button_play {
+  border: 2px solid var(--color-yellow);
+  color: var(--color-yellow);
+}
+
+.modal_button_play:hover {
+  background: var(--color-yellow);
+  opacity: 0.8;
+  color: var(--background-color);
+  transition: 0.5s;
+}
+
+.modal_button:active {
+  transform: scale(0.98);
+}
+
+.win_modal_content {
+  display: flex;
+  flex-direction: column;
+}
+
+.modal_image_win {
+  margin-top: 20px;
+  width: 100%;
+}
+
+.modal_image_win img {
+  width: 100%;
+  box-shadow: 0 0 15px var(--color-lilac);
+}
+
+.image_lost {
+  width: 40%;
+  border-radius: 12px;
+}
+
+.modal_body_lost_game {
+  display: flex;
+  width: 50%;
+  max-width: 650px;
+  box-shadow: 0 0 15px var(--color-lilac);
+  padding: 30px;
+  border-radius: 12px;
+  align-items: center;
+  gap: 20px;
+  background-color: var(--color-dark);
+}
+
+.sound_button {
+  cursor: pointer;
+  font-size: 1.5rem;
+  color: var(--color-yellow-green);
+  margin-bottom: 20px;
+  transition: 0.3s;
+}
+
+.sound_button:hover {
+  opacity: 0.7;
+}
+
+@media screen and (max-width: 600px) {
+  .modal_body {
+    flex-direction: column-reverse;
+    padding: 15px;
+  }
+  .modal_title {
+    line-height: 2rem;
+  }
+
+  .modal_title h3 {
+    font-size: 1.35rem;
+  }
+
+  .modal_buttons_group {
+    gap: 15px;
+    margin-top: 10px;
+  }
+
+  .modal_button,
+  .modal_button_play {
+    font-size: 0.9rem;
+  }
+
+  .modal_body_lost_game {
+    flex-direction: column-reverse;
+    width: 80%;
+  }
+
+  .image {
+    box-shadow: none;
+  }
+
+  .image_lost {
+    width: 60%;
+  }
+}

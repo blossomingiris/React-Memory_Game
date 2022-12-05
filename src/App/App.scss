@@ -1,0 +1,41 @@
+@import '.././scss/globals/index.scss';
+
+.app_container {
+  height: 100vh;
+  display: flex;
+}
+
+.container {
+  max-width: 750px;
+  margin: auto;
+  background-color: transparent;
+}
+
+.card_grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  gap: 20px;
+}
+
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px 0 15px 0;
+  background-color: transparent;
+}
+
+@media screen and (max-width: 600px) {
+  .container {
+    width: 100%;
+  }
+
+  .header {
+    padding: 0;
+  }
+
+  .card_grid {
+    gap: 0px;
+    // grid-template-columns: repeat(auto-fill, minmax(50px, 1fr));
+  }
+}

@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Berkshire+Swash&family=Piazzolla:opsz,wght@8..30,300;8..30,400;8..30,500&display=swap');
+:root {
+  --base-font: 'Berkshire Swash', cursive;
+}
+
+body {
+  letter-spacing: 0.05rem;
+}
+
+h1 {
+  font-size: 3rem;
+  background: -webkit-linear-gradient(
+    var(--color-green),
+    var(--color-yellow) 20%,
+    var(--color-pink),
+    var(--color-purple) 80%
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-align: center;
+}
+
+h3 {
+  font-size: 1.75rem;
+  margin-bottom: 20px;
+  background: transparent;
+}
+
+p {
+  font-size: 1.2rem;
+  background: transparent;
+}
+
+@media screen and (max-width: 600px) {
+  h1 {
+    font-size: 2rem;
+    margin-bottom: 10px;
+  }
+
+  .h3 {
+    font-size: 1rem;
+    margin-bottom: 0px;
+  }
+  p {
+    font-size: 0.85rem;
+  }
+}
