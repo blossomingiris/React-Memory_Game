@@ -160,9 +160,17 @@
 }
 
 @media screen and (max-width: 600px) {
+  .modal {
+    position: absolute;
+    left: 0;
+    right: 0;
+    width: 100%;
+  }
+
   .modal_body {
     flex-direction: column-reverse;
     padding: 15px;
+    // width: 100%;
   }
   .modal_title {
     line-height: 2rem;

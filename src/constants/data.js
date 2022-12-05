@@ -7,7 +7,7 @@ export const lore = [
   },
   {
     title_2: 'House in Forest',
-    desc_2: `Your eyes don't trick you! The house is real! You can see warm light in the windows, white smoke from the chimney and a black cat resting on the porch. The lady of house opens the door, she is so kind and offers you a hot meal and overnight stay. That exactly what you need right now! The woman introduces herself as Gello...`,
+    desc_2: `Yes! Your eyes don't lie you! The house is real! You can see warm light in the windows, white smoke from the chimney and a black cat resting on the porch. The lady of house opens the door, she is so kind and offers you a hot meal and overnight stay. That exactly what you need right now! The woman introduces herself as Gello...`,
     image: 'house.png',
   },
   {
