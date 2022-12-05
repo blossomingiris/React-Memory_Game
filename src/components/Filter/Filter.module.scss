@@ -6,7 +6,11 @@
   right: 0;
   bottom: 0;
   z-index: -1;
-  background: transparent;
+  background: radial-gradient(
+    ellipse at bottom,
+    var(--background-color) 0%,
+    var(--color-black) 100%
+  );
 }
 
 @function random_range($min, $max) {
