@@ -1,9 +1,3 @@
-// .app_container {
-//   display: flex;
-//   align-items: center;
-//   position: absolute;
-// }
-
 .modal {
   position: fixed;
   width: 100%;
@@ -170,7 +164,7 @@
   .modal_body {
     flex-direction: column-reverse;
     padding: 15px;
-    // width: 100%;
+    width: 100%;
   }
   .modal_title {
     line-height: 2rem;
