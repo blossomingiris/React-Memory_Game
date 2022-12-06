@@ -1,5 +1,4 @@
-<img src="https://user-images.gi![Uploading Group 15.png…]()
-thubusercontent.com/102720711/205872749-bc5a58cc-a3dc-43f1-a39b-fde58fcdee8e.png" />
+<img src="https://user-images.githubusercontent.com/102720711/205873693-8ac049ec-b408-48c6-9faf-7a271d945ba6.png" />
 
 ## Magic Memory (React) :crystal_ball:
 ### Description: 
