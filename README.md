@@ -1,7 +1,9 @@
-<img src="https://user-images.githubusercontent.com/102720711/205866865-88f357be-75d2-4ceb-a76d-928e3921ce82.png" width = "480" align="right" /> 
-<img src="https://user-images.githubusercontent.com/102720711/205866850-834999f1-378a-4aca-9b11-ff985b54494b.png" width = "500" align="right" /> 
+<img src="https://user-images.githubusercontent.com/102720711/205867828-cee2bb0a-d5e0-4f97-a077-0e514aab84e2.png" width = "450" align="right" /> 
+<img src="https://user-images.githubusercontent.com/102720711/205868028-e969790a-ff5f-4e6f-93e7-db42100bd63f.png" width = "450" align="right" /> 
+<img src="https://user-images.githubusercontent.com/102720711/205866865-88f357be-75d2-4ceb-a76d-928e3921ce82.png" width = "450" align="right" /> 
 
-## Magic Memory (React) :crystal_ball:
+
+## Magic Memory (React) :crystal_ball:![image 22 (1)]()
 
 ## Description: 
 Game starts with story that guids you to gameboard where you wil have 12 cards face down and you need take turns to turn over two cards. If the two cards will have the same picture, then game keeps the cards,
