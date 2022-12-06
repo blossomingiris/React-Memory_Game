@@ -1,5 +1,5 @@
 <img src="https://user-images.githubusercontent.com/102720711/205866865-88f357be-75d2-4ceb-a76d-928e3921ce82.png" width = "480" align="right" /> 
-<img src="https://user-images.githubusercontent.com/102720711/205866850-834999f1-378a-4aca-9b11-ff985b54494b.png" width = "480" align="right" /> 
+<img src="https://user-images.githubusercontent.com/102720711/205866850-834999f1-378a-4aca-9b11-ff985b54494b.png" width = "600" align="right" /> 
 
 ## Magic Memory (React) :crystal_ball:
 
