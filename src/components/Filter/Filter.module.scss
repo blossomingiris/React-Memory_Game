@@ -1,6 +1,5 @@
 .filter_container {
-  position: absolute;
-  width: 100%;
+  position: fixed;
   left: 0;
   top: 0;
   right: 0;
@@ -33,7 +32,7 @@
     $random-x: random(1000000) * 0.0001vw;
     $random-offset: random_range(-100000, 100000) * 0.0001vw;
     $random-x-end: $random-x + $random-offset;
-    $random-x-end-yoyo: $random-x + ($random-offset / 3);
+    $random-x-end-yoyo: $random-x + ($random-offset / 2);
     $random-yoyo-time: random_range(20000, 80000) / 100000;
     $random-yoyo-y: $random-yoyo-time * 100vh;
     $random-scale: random(10000) * 0.0001;

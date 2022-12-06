@@ -156,9 +156,6 @@
 @media screen and (max-width: 600px) {
   .modal {
     position: absolute;
-    left: 0;
-    right: 0;
-    width: 100%;
   }
 
   .modal_body {
@@ -194,6 +191,10 @@
   }
 
   .image_lost {
-    width: 60%;
+    width: 50%;
+  }
+
+  .modal_body_lost_game {
+    padding: 20px 10px;
   }
 }
