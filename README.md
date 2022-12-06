@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/102720711/205870474-dac0c1ff-3eeb-4695-9ae3-d1fd776ebcb8.png" width = "450" align="right" /> 
+<img src="https://user-images.githubusercontent.com/102720711/205870474-dac0c1ff-3eeb-4695-9ae3-d1fd776ebcb8.png" width = "400" align="right" /> 
  
 ## Magic Memory (React) :crystal_ball:
 ## Description: 
@@ -13,8 +13,7 @@ Game has sounds (cliks, timer, lost/win game sound) and also music background (y
 - React.js
 - Sass
 
- ## Demo: 
-[Here](https://magic-memory-ldz0.onrender.com) </br>
+ ## Demo: [Here](https://magic-memory-ldz0.onrender.com) </br>
 
 ## Running application
 <img src="https://user-images.githubusercontent.com/102720711/205870699-bf3ce9b0-a659-452c-95a2-65f011a9a5fd.png" width = "400" align="right" /> 
