@@ -16,9 +16,9 @@ Game has sounds (cliks, timer, lost/win game sound) and also music background (y
  ## Demo: [here](https://magic-memory-ldz0.onrender.com) </br>
 
 ## Running application
-<img src="https://user-images.githubusercontent.com/102720711/205870699-bf3ce9b0-a659-452c-95a2-65f011a9a5fd.png" width = "400" align="right" /> 
 1. Clone the repo or download it
 2. Open your terminal  run command "npm install"
+<img src="https://user-images.githubusercontent.com/102720711/205870699-bf3ce9b0-a659-452c-95a2-65f011a9a5fd.png" width = "400" align="right" /> 
 3. Having terminal run command "npm start"
 
 ### Issues
