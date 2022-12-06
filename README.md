@@ -1,6 +1,7 @@
 ## Memory Card Game (React) :crystal_ball:
 
-### Title: Magic Memory
+### Title: 
+Magic Memory
 
 ### Description: 
 Game starts with story that guids you to gameboard where you wil have 12 cards face down and you need take turns to turn over two cards. If the two cards will have the same picture, then game keeps the cards,
