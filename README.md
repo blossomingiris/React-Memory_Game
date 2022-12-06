@@ -1,4 +1,4 @@
-## Magic Memory (React) :crystal_ball:
+## Memory Card Game(React) :crystal_ball:
 ### Description: 
 Game starts with story that guids you to gameboard where you wil have 12 cards face down and you need take turns to turn over two cards. If the two cards will have the same picture, then game keeps the cards,
 otherwise turns the cards face down again. There is 6 pair combination and you will have 30 seconds to find all. There is 4 different  endgame scenarios.</br>
