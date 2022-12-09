@@ -4,8 +4,8 @@
 Magic Memory
 
 ### Description: 
-"Magic Memory" it's memory card game. It starts with storyline that guids you to gameboard where you wil have 12 cards face down and you need take turns to turn over two cards. If the two cards will have the same picture, then game keeps the cards, otherwise turns the cards face down again. There is 6 pair combination and you will have 30 seconds to find all. There is 4 different  endgame scenarios.</br>
-Game has different sounds (cliks, timer, lost/win  and also music background (you can turn it on/off).
+"Magic Memory" is a memory card game. It starts with a story that leads you to the game board, where you have 12 cards face down and have to turn over two cards in turn. If the two cards have the same picture, they remain, otherwise they are turned face up again. There are 6 pair combinations and you have 30 seconds to find them all. There are 4 different end game scenarios.</br>
+The game has different sounds (clicks, timer, lost/won) and background music (which you can turn on and off).
 
 ### Technologies:
 - React.js
