@@ -14,7 +14,7 @@ Game has different sounds (cliks, timer, lost/win  and also music background (yo
 ### Note: 
 Not mobile responsive
 
-### It's alive: [here](https://magic-memory-ldz0.onrender.com) </br>
+### Demo is: [here](https://magic-memory-ldz0.onrender.com) </br>
 
 ### Running application:
 1. Clone the repo or download it
