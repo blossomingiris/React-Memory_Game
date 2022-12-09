@@ -4,7 +4,7 @@
 Magic Memory
 
 ### Description: 
-"Magic Mamory" it's memory card game. It starts with storyline that guids you to gameboard where you wil have 12 cards face down and you need take turns to turn over two cards. If the two cards will have the same picture, then game keeps the cards, otherwise turns the cards face down again. There is 6 pair combination and you will have 30 seconds to find all. There is 4 different  endgame scenarios.</br>
+"Magic Memory" it's memory card game. It starts with storyline that guids you to gameboard where you wil have 12 cards face down and you need take turns to turn over two cards. If the two cards will have the same picture, then game keeps the cards, otherwise turns the cards face down again. There is 6 pair combination and you will have 30 seconds to find all. There is 4 different  endgame scenarios.</br>
 Game has different sounds (cliks, timer, lost/win  and also music background (you can turn it on/off).
 
 ### Technologies:
@@ -14,7 +14,7 @@ Game has different sounds (cliks, timer, lost/win  and also music background (yo
 ### Note: 
 Not mobile responsive
 
-### Demo: [here](https://magic-memory-ldz0.onrender.com) </br>
+### It's alive: [here](https://magic-memory-ldz0.onrender.com) </br>
 
 ### Running application:
 1. Clone the repo or download it
