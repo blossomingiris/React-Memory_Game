@@ -11,8 +11,6 @@ The game has different sounds (clicks, timer, lost/won) and background music (wh
 - React.js
 - Sass
 
-### Note: 
-Not mobile responsive
 
 ### Demo is: [here](https://magic-memory-ldz0.onrender.com) </br>
 
